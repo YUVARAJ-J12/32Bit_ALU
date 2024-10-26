@@ -61,7 +61,7 @@ Use Save option or Ctrl+S to save the code or click on the save option from the 
 Similarly, create your test bench using gedit <filename_tb>.v or <filename_tb>.vhdl to open a new blank document (alu_32bit_tb_case).
 
 ## Test Bench :
-
+//
 module alu_32bit_tb_case;
 reg [31:0]a;
 reg [31:0]b;
@@ -82,7 +82,7 @@ b=32'h10001000;
 #10;$stop;
 end
 endmodule
-
+//
 Use Save option or Ctrl+S to save the code or click on the save option from the top most right corner and close the text file.
 
 ## Functional Simulation: 
