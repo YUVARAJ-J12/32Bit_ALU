@@ -235,7 +235,9 @@ Steps for simulation – Run the simulation command with simulator options
 
 ## Fig 11:Simulation Waveform Window
 
+## Result
 
+The functionality of a 32-bit ALU was successfully verified using a test bench and simulated with the nclaunch tool.
 
 
 
